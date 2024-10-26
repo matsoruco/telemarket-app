@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/telemarket-app/static/js/main.028a1ca4.js",
+    "main.js": "/telemarket-app/static/js/main.f90e8edc.js",
     "static/js/239.356c215c.chunk.js": "/telemarket-app/static/js/239.356c215c.chunk.js",
     "static/js/213.eff723ef.chunk.js": "/telemarket-app/static/js/213.eff723ef.chunk.js",
     "static/js/732.43036c3b.chunk.js": "/telemarket-app/static/js/732.43036c3b.chunk.js",
     "index.html": "/telemarket-app/index.html",
-    "main.028a1ca4.js.map": "/telemarket-app/static/js/main.028a1ca4.js.map",
+    "main.f90e8edc.js.map": "/telemarket-app/static/js/main.f90e8edc.js.map",
     "239.356c215c.chunk.js.map": "/telemarket-app/static/js/239.356c215c.chunk.js.map",
     "213.eff723ef.chunk.js.map": "/telemarket-app/static/js/213.eff723ef.chunk.js.map",
     "732.43036c3b.chunk.js.map": "/telemarket-app/static/js/732.43036c3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.028a1ca4.js"
+    "static/js/main.f90e8edc.js"
   ]
 }
